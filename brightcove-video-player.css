@@ -1,0 +1,7 @@
+.video-js .vjs-big-play-button {
+  background: #00a499;
+}
+.video-js .vjs-big-play-button:hover,
+.video-js .vjs-big-play-button:focus {
+  background: #006747;
+}
